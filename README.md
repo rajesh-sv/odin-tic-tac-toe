@@ -15,4 +15,4 @@
 - Transition animations
 - Adding bot
 
-[Live Link](https://rajesh-sv.github.io/odin-tic-tac-toe/)
+[Live Link](https://tic-tac-toe.rajesh-sv.dev/)
